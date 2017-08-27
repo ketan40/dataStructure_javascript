@@ -27,7 +27,7 @@ Trie.prototype.add = function(word){
     	return null;
     }
     this._addNode(this._root,word);
-
+      console.log("ketan");
 
 }
 
