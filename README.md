@@ -1,3 +1,5 @@
+Few Algorithms which are must learn if preparing for interview ( and also to understand / brush up the fundamentals)
+
 "# dataStructure_javascript" 
 1. Binary Search
 2. LinkedList
