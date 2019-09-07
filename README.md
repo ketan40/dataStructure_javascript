@@ -5,7 +5,7 @@ Few Algorithms which are must learn if preparing for interview ( and also to und
 2. LinkedList
 3. Stack and Queue
 4. Trie Data structure
-
+5. Univalued tree using DFS
 ////////////Sorting Algorithm \\\\\\\\\\\\\\\\\\\
 
 1. Bubble Sort
